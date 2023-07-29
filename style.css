@@ -1,0 +1,181 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-image: url("./cal.jpg");
+}
+
+h1 {
+  font-size: 150px;
+  text-align: center;
+  background-color: lightcoral;
+  margin-bottom: 0px;
+  margin-top: 0px;
+   border:10px groove black;
+}
+
+#main {
+  background-color: black;
+  height: 400px;
+  width: 600px;
+  margin-top: 20px;
+  margin-bottom: 50%;
+  margin-left: 25%;
+  margin-right: 25%;
+  position: absolute;
+   border:5px groove cornflowerblue;
+}
+
+#result {
+  background-color: white;
+  height: 40px;
+  width: 560px;
+  position: relative;
+  top: 10px;
+  left: 10px;
+   border:5px groove cornflowerblue;
+}
+#b1 {
+  background-color: white;
+  height: 72.5px;
+  width: 87.5px;
+  position: absolute;
+  top: 70px;
+  left: 10px;
+}
+#b2 {
+  background-color: white;
+  height: 72.5px;
+  width: 87.5px;
+  position: absolute;
+  top: 70px;
+  left: 107.5px;
+}
+
+#b3 {
+  background-color: white;
+  height: 72.5px;
+  width: 87.5px;
+  position: absolute;
+  top: 70px;
+  left: 205px;
+}
+
+#b4 {
+  background-color: white;
+  height: 72.5px;
+  width: 87.5px;
+  position: absolute;
+  top: 70px;
+  left: 302.5px;
+}
+
+#b5 {
+  background-color: white;
+  height: 72.5px;
+  width: 87.5px;
+  position: absolute;
+  top: 152.5px;
+  left: 10px;
+}
+#b6 {
+  background-color: white;
+  height: 72.5px;
+  width: 87.5px;
+  position: absolute;
+  top: 152.5px;
+  left: 107.5px;
+}
+#b7 {
+  background-color: white;
+  height: 72.5px;
+  width: 87.5px;
+  position: absolute;
+  top: 152.5px;
+  left: 205px;
+}
+
+#b8 {
+  background-color: white;
+  height: 72.5px;
+  width: 87.5px;
+  position: absolute;
+  top: 152.5px;
+  left: 302.5px;
+}
+
+#b9 {
+  background-color: white;
+  height: 72.5px;
+  width: 87.5px;
+  position: absolute;
+  top: 235px;
+  left: 10px;
+}
+
+#b10 {
+  background-color: white;
+  height: 72.5px;
+  width: 87.5px;
+  position: absolute;
+  top: 235px;
+  left: 107.5px;
+}
+#b11 {
+  background-color: white;
+  height: 72.5px;
+  width: 87.5px;
+  position: absolute;
+  top: 235px;
+  left: 205px;
+}
+#b12{
+  background-color: white;
+  height: 72.5px;
+  width: 87.5px;
+  position: absolute;
+  top: 235px;
+  left: 302.5px;
+}
+#b13 {
+  background-color: white;
+  height: 72.5px;
+  width: 87.5px;
+  position: absolute;
+  top: 317.5px;
+  left: 10px;
+}
+
+#b14 {
+  background-color: white;
+  height: 72.5px;
+  width: 87.5px;
+  position: absolute;
+  top: 317.5px;
+  left: 107.5px;
+}
+#b15 {
+  background-color: white;
+  height: 72.5px;
+  width: 87.5px;
+  position: absolute;
+  top: 317.5px;
+  left: 205px;
+}
+#b16{
+  background-color: white;
+  height: 72.5px;
+  width: 87.5px;
+  position: absolute;
+  top: 317.5px;
+  left: 302.5px;
+}
+button{
+  height:100%;
+  width:100%;
+  background-color: lightpink;
+  border:5px groove cornflowerblue;
+  font-size:40px;
+}
+#b14>button{
+  font-size: 20px;
+}
